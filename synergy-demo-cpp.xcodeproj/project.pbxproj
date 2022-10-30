@@ -57,9 +57,17 @@
 		3CA3B1AD290EEE6100ECF76B /* src */ = {
 			isa = PBXGroup;
 			children = (
-				3CA3B1A6290EEE5000ECF76B /* main.cpp */,
+				3CA3B1AE290F24D100ECF76B /* task-1 */,
 			);
 			path = src;
+			sourceTree = "<group>";
+		};
+		3CA3B1AE290F24D100ECF76B /* task-1 */ = {
+			isa = PBXGroup;
+			children = (
+				3CA3B1A6290EEE5000ECF76B /* main.cpp */,
+			);
+			path = "task-1";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
