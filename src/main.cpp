@@ -5,8 +5,8 @@
 //  Created by Данил Фурман on 30.10.2022.
 //
 
-#import "./task-1/index.hpp"
-#import "./task-2/index.hpp"
+#include "./task-1/index.hpp"
+#include "./task-2/index.hpp"
 
 int main () {
     int programChoice;
