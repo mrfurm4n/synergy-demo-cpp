@@ -20,7 +20,7 @@ int main()
 
 	// Input
 	printf("\nПожалуйста, введите ваш логин в системе: ");
-	scanf("%str", &userLoginInput);
+	scanf("%s", &userLoginInput);
 	printf("\nПожалуйста, введите первый число-пароль: ");
 	scanf("%i", &userFirstPassInput);
 	printf("\nПожалуйста, введите второй число-пароль: ");
