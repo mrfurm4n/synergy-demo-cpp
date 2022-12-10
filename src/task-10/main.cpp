@@ -11,7 +11,7 @@ int main()
 	scanf("%i", &arrayLength);
 
 	// input array elems
-	int arr[arrayLength];
+	int arr[100];
 	printf("\n\nВведите элементы массива друг за другом:\n");
 
 	for (int i = 0; i < arrayLength; i += 1)
